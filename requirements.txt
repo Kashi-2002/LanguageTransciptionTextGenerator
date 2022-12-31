@@ -1,0 +1,7 @@
+python==3.9.5
+transformers==v4
+pydub
+fastapi
+librosa
+torch==1.13.1
+python-multipart
